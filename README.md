@@ -95,7 +95,7 @@ I believe in learning by building, keeping architectures maintainable, and choos
 I'm always interested in connecting with developers, researchers, and people working on interesting technology.
 
 * GitHub: [@hsochetra](https://github.com/hsochetra)
-* LinkedIn: [Sochetra HEANG]([https://www.linkedin.com/](https://www.linkedin.com/in/sochetra-heang/))
+* LinkedIn: [Sochetra HEANG](https://www.linkedin.com/in/sochetra-heang)
 
 Feel free to explore my repositories, share ideas, or collaborate on something interesting!
 
